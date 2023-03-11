@@ -5,7 +5,7 @@
 
 ### Links
 
-- Live Site URL: [https://order-summary-component-10.netlify.app/]
+- Live Site URL: [https://order-summary-component-10.vercel.app/]
 
 ### Built with
 
